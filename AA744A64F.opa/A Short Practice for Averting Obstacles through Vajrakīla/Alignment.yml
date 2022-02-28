@@ -1,0 +1,19 @@
+segment_sources:
+  P2ADBB33A:
+    type: origin_type
+    relation: translation
+    language: en
+  P9AD6513A:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  d35bc22f63fa4037a13a394b64cf3e4a:
+    P2ADBB33A: 9f260a4c24204323b9a38fa70a96db65
+    P9AD6513A: 652f8a1495de4f298ac7adc289a0f10c
+  f38843cb48c044c6992b241b42f33542:
+    P2ADBB33A: 31ea583c7d21489ab4fa72cd2f00b457
+    P9AD6513A: ca5d5953182e47649463653442cfda8f
+  84e59209d6824d51b5042a8686a7dcda:
+    P2ADBB33A: 410ae5af7b2f45f89bba51a784774cd0
+    P9AD6513A: c0ab5b363a204be89ffa1d7c067772d8
